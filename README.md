@@ -15,7 +15,7 @@ To deploy this project run the following commands:
 
 Step 1: install all the dependencies.
 ```bash
-   python -m pip install -r requirements.tx
+   python -m pip install -r requirements.txt
 ```
 
 
